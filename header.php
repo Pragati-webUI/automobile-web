@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <!-- Mirrored from zwin.io/html/coche/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Mar 2023 08:11:57 GMT -->
 
 <head>
@@ -32,7 +31,6 @@
     <!-- responsive Stylesheet -->
     <link rel="stylesheet" href="assets/css/responsive.css">
 
-
 </head>
 
 <body>
@@ -46,8 +44,6 @@
             </div>
         </div>
     </div>
-
-
 
     <!-- preloader area end -->
 
@@ -81,7 +77,6 @@
                 <nav class="mean-nav">
                     <ul class="navbar-nav" id="side-bar-menu" style="display: block;">
                         <li class="menu-item-has-children current-menu-item ">
-
                             <div>
                                 <a href=" #">Profile</a>
                                 <ul class="sub-menu " style="display: none;">
@@ -90,10 +85,7 @@
                                 </ul>
                             </div>
                             <a class="mean-expand" href="#" style="font-size: undefined">+</a>
-
-
                             <!-- <a class="mean-expand mean-clicked" href="#" style="font-size: undefined">-</a> -->
-
                         </li>
                         <li class="menu-item-has-children current-menu-item">
                             <div>
@@ -136,7 +128,6 @@
                             </ul>
                             <!-- <a class="mean-expand" href="#" style="font-size: undefined">+</a> -->
                         </li>
-
                     </ul>
                     <a class="mean-expand" href="#" style="font-size: undefined">+</a>
                     </li>
@@ -335,7 +326,6 @@
     </div>
     <!--Contact-popup-->
 
-
     <!--Full Width Sider Start-->
     <div class="full-width-slider">
         <!--Main Header Start-->
@@ -347,7 +337,8 @@
                         <div class="row">
                             <div class="topbar-inner">
                                 <div class="left-content">
-                                    Ordered before 17:30, shipped today - Support: (012) 800 456 789
+                                    <i class="fa fa-phone" aria-hidden="true"> </i>
+                                    1234567890
                                 </div>
                                 <div class="right-content">
                                     <div class="social-icon">
@@ -391,8 +382,6 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="header-bottom-area">
-
-
                             <!--Navbar Area Start Here-->
                             <nav class="navbar navbar-area navbar-expand-lg  style-02 bg-light w-100">
                                 <div class="container nav-container">
@@ -431,15 +420,11 @@
 
                                             <li class=" current-menu-item">
                                                 <a href="home.php">Home</a>
-
                                             </li>
 
                                             <li class="">
                                                 <a href="accessories.php">Accessories</a>
-
                                             </li>
-
-
 
                                             <li class="menu-item-has-children">
                                                 <a href="#">Services</a>
@@ -447,7 +432,7 @@
                                                     <li class="menu-item-has-children">
                                                         <a href="#">Car Services</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="carwashingproduct.php">Auto washing
+                                                            <li><a href="carservicwashing.php">Auto washing
                                                                     products</a>
                                                             </li>
                                                             <li><a href="carservicecenter.php">Servicing Center</a></li>
@@ -471,22 +456,16 @@
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="#">Repairing</a>
-
+                                                        <a href="servicecrepairing.php">Repairing</a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">Mechanics</a>
-
+                                                        <a href="servicecmechanic.php">Mechanics</a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">Other Services</a>
-
+                                                        <a href="otherservicec.php">Other Services</a>
                                                     </li>
-
                                                 </ul>
                                             </li>
-
-
 
                                             <li class="menu-item-has-children current-menu-item">
                                                 <a href="#">Category</a>
@@ -494,14 +473,13 @@
                                                     <li class="menu-item-has-children">
                                                         <a href="#">Car Product</a>
                                                         <ul class="sub-menu">
-
                                                             <li class="menu-item-has-children">
                                                                 <a href="#">Old Product</a>
                                                                 <ul class="sub-menu">
                                                                     <li><a href="oldautosparparts.php">Auto Spares
                                                                             Parts</a>
                                                                     </li>
-                                                                    <li><a href="carwashingproduct.php">Auto Washing
+                                                                    <li><a href="oldcarwashingproduct.php">Auto Washing
                                                                             Products</a>
                                                                     </li>
                                                                     <li><a href="oldtyres.php">Tyres</a></li>
@@ -514,11 +492,13 @@
                                                     <li class="menu-item-has-children">
                                                         <a href="#">New Product</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="#">Auto Spares Parts</a></li>
-                                                            <li><a href="#">Auto Washing Products</a>
+                                                            <li><a href="newautosparparts.php">Auto Spares Parts</a>
                                                             </li>
-                                                            <li><a href="#">Tyres</a></li>
-                                                            <li><a href="#">Other Products</a></li>
+                                                            <li><a href="newcarwashingproduct.php">Auto Washing
+                                                                    Products</a>
+                                                            </li>
+                                                            <li><a href="newtyres.php">Tyres</a></li>
+                                                            <li><a href="newotherproducts.php">Other Products</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -526,44 +506,40 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Bike Product</a>
                                                 <ul class="sub-menu">
-
                                                     <li class="menu-item-has-children">
                                                         <a href="#">Old Product</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="#">Auto Spares Parts</a></li>
-                                                            <li><a href="#">Auto Washing Products</a>
+                                                            <li><a href="bikeoldautospars.php">Auto Spares Parts</a>
                                                             </li>
-                                                            <li><a href="#">Tyres</a></li>
-                                                            <li><a href="#">Other Products</a></li>
+                                                            <li><a href="bikeoldwashing.php">Auto Washing Products</a>
+                                                            </li>
+                                                            <li><a href="bikeoldtyres.php">Tyres</a></li>
+                                                            <li><a href="bikeoldotherproducts.php">Other Products</a>
+                                                            </li>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="#">New Product</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="#">Auto Spares Parts</a></li>
-                                                    <li><a href="#">Auto Washing Products</a>
+                                                    <li><a href="bikenewautosparparts.php">Auto Spares Parts</a></li>
+                                                    <li><a href="bikenewwashingproduct.php">Auto Washing Products</a>
                                                     </li>
-                                                    <li><a href="#">Tyres</a></li>
-                                                    <li><a href="#">Other Products</a></li>
+                                                    <li><a href="bikenewtyres.php">Tyres</a></li>
+                                                    <li><a href="bikenewotherproducts.php">Other Products</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
                                         </li>
                                         </ul>
-
                                         </li>
-
                                         <li class="">
                                             <a href="about.php">About</a>
-
                                         </li>
                                         <li class="">
                                             <a href="faqs.php">FAQs</a>
-
                                         </li>
                                         <li><a href="login.php">Login</a></li>
-
                                         <li><a href="registration.php">Registration</a></li>
                                         </ul>
                                     </div>

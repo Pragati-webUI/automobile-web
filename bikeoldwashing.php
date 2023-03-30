@@ -2,14 +2,6 @@
 
 <!--How We Are Section Start-->
 <section class="how-we-are padding-120">
-    <!-- Side form icons -->
-    <div id="service_info_item" class="side-form-icons">
-        <i class="icon flaticon-placeholder" id="open-location-popup"></i>
-        <i class="icon flaticon-email" id="open-message-popup"></i>
-        <i class="icon flaticon-phone-call" id="open-contact-popup"></i>
-    </div>
-    <!--// Side form icons -->
-
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -45,7 +37,7 @@
                     <div class="border-design">
                         <div class="border-bg bottom"></div>
                         <div class="we-are-img">
-                            <img src="assets/img/slider/washing.webp" alt="img">
+                            <img src="assets/img/bikecatagoryold/download 1.jpg" alt="img" style="width: 629px;">
                         </div>
                     </div>
                 </div>

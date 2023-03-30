@@ -1,49 +1,5 @@
 <?php include('header.php'); ?>
 
-<!--Banner Auto Car Section-->
-<div class="banner-auto-car style-02 padding-top-110 padding-bottom-150 mt-5"
-    style="background-image: url(assets/img/bg/bg-02.png)">
-    <!--Container-->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="banner-right-content">
-                    <div class="m-auto">
-                        <!--Section Title-->
-                        <div class="section-title text-center">
-                            <div class="padding-bottom-15">
-                                <h6 class="title both-line uppercase gray"> Book Now </h6>
-                            </div>
-                            <h2 class="heading-02">Free Car Inspection</h2>
-                        </div>
-                        <!--// Section Title-->
-                        <!--Info Area-->
-                        <div class="info-area padding-top-20 m-auto">
-                            <div class="info-area-left">
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn uppercase">GET RIGISTERED</a>
-                                </div>
-                                <!--// Main Btn Wrap End-->
-                            </div>
-                            <!--//Info area left-->
-                            <div class="info-area-right">
-                                <div class="service-time">Call Us For Booking Vehicle</div>
-                                <div class="contact-number">+88018-5700-00</div>
-                            </div>
-                            <!--// Info area righr-->
-                        </div>
-                        <!--// Info Area-->
-                    </div>
-                </div>
-                <!--// Complete Right Content-->
-            </div>
-        </div>
-    </div>
-    <!--// Container-->
-</div>
-<!--// Banner Auto Car Section End-->
-
-<!--Home 02 Our Service Section-->
 <section class="h2-service-section padding-120">
     <div class="container">
         <div class="row">
@@ -62,10 +18,10 @@
                 <div class="service-section-right">
                     <div class="section-title">
                         <div class="padding-bottom-15">
-                            <h6 class="title uppercase gray"> our Mechanics </h6>
+                            <h6 class="title uppercase gray"> our Services </h6>
                         </div>
                         <div class="padding-bottom-30">
-                            <h2 class="heading-02"> Mechanics We Offer </h2>
+                            <h2 class="heading-02"> Services We Offers </h2>
                         </div>
                     </div>
                     <!--// Section title-->
@@ -179,6 +135,32 @@
     </div>
     <!--// Container-->
 </section>
-<!--// Home 02 Our Service Section-->
+
+<section class="service-single-item">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="thumb-wrap">
+                    <div class="thumb">
+                        <img src="assets/img/service/03.png" alt="img">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="service-content">
+                    <!-- <div class="item-number">03</div> -->
+                    <div class="title-wrap">
+                        <h3 class="title">Parts Repairing</h3>
+                    </div>
+                    <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
+                        skilled
+                        and knowledgeable repair service station like Auto to ensure a smooth and hassle free glide
+                    </p>
+                    <a href="#" class="more-details">More Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include('footer.php'); ?>

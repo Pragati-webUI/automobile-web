@@ -2,14 +2,6 @@
 
 <!--How We Are Section Start-->
 <section class="how-we-are padding-120">
-    <!-- Side form icons -->
-    <div id="service_info_item" class="side-form-icons">
-        <i class="icon flaticon-placeholder" id="open-location-popup"></i>
-        <i class="icon flaticon-email" id="open-message-popup"></i>
-        <i class="icon flaticon-phone-call" id="open-contact-popup"></i>
-    </div>
-    <!--// Side form icons -->
-
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -45,7 +37,7 @@
                     <div class="border-design">
                         <div class="border-bg bottom"></div>
                         <div class="we-are-img">
-                            <img src="assets/img/slider/washing.webp" alt="img">
+                            <img src="assets/img/bikecatagoryold/download 1.jpg" alt="img" style="width: 639px;">
                         </div>
                     </div>
                 </div>
@@ -57,5 +49,30 @@
     <!--// Container End-->
 </section>
 <!--// How We Are Section End-->
+
+<section class="service-single-item padding-120">
+    <div class="container">
+        <div class="row">
+            <div class="thumb-wrap">
+                <div class="thumb">
+                    <img src="assets/img/service/06.png" alt="img">
+                </div>
+            </div>
+            <!-- </div> -->
+            <div class="col-lg-5 col-md-6">
+                <div class="service-content">
+                    <div class="title-wrap">
+                        <h3 class="title">Car Wash</h3>
+                    </div>
+                    <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
+                        skilled
+                        and knowledgeable repair service station like Auto to ensure a smooth and hassle free glide
+                    </p>
+                    <a href="#" class="more-details">More Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include('footer.php'); ?>

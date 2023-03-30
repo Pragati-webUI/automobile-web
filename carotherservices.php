@@ -102,12 +102,10 @@
                 </div>
                 <!--// home-2 Car adds Items-->
             </div>
-
         </div>
     </div>
     <!--// Container-->
 </section>
 <!--// Car Adds Section-->
-
 
 <?php include('footer.php'); ?>

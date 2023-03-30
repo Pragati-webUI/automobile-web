@@ -1623,7 +1623,13 @@
     }
     .sign-register-area-inner {
         padding: 20px;
+        /* margin-top: 250px; */
     }
+
+
+   
+       
+
     .home-slider-area__bottom-area__itmes .items-left-content {
         display: none;
     }
@@ -1765,3 +1771,4 @@
 @media only screen and (max-width: 330px){
 
 }
+

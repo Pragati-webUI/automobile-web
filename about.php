@@ -71,7 +71,6 @@
 </section>
 <!--// About Story End-->
 
-
 <!-- Our Mission Section-->
 <section class="our-mission-section">
     <div class="container">
@@ -125,7 +124,6 @@
                     </div>
                     <!--// Work Items-->
 
-
                 </div>
             </div>
             <div class="col-lg-6">
@@ -156,7 +154,6 @@
 </section>
 <!--// Our Mission Section-->
 
-
 <!--Out Team Section-->
 <div class="our-team-section padding-110 md-padding-top-100">
     <div class="container">
@@ -184,10 +181,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-1.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -216,10 +217,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-2.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -248,10 +253,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-3.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -280,10 +289,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-4.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -312,10 +325,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-2.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -344,10 +361,14 @@
                                         <div class="thumb">
                                             <img src="assets/img/home-02/team-3.png" alt="img">
                                             <ul class="social-icon">
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i
+                                                            class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                         <div class="number">
@@ -380,10 +401,5 @@
     <!--// Container-->
 </div>
 <!--// Out Team Section-->
-
-
-
-
-
 
 <?php include('footer.php'); ?>

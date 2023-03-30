@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="breadcrumb-content">
-                <h1 class="page-title">Old Tyres</h1>
+                <h1 class="page-title">New Tyres</h1>
                 <ul class="page-list">
                     <li><a href="#">Home</a></li>
                     <li>Shop Details</li>
@@ -236,7 +236,6 @@
                         </ul>
                     </div>
                     <!-- Tag-->
-
                 </div>
                 <!--// Product Description-->
             </div>

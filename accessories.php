@@ -1,6 +1,5 @@
 <?php include('header.php'); ?>
 
-
 <!--Breadcrumb Start-->
 <div class="breadcrumb-area mt-5 mb-5" style="background-image: url('assets/img/breadcrumb/02.png')">
     <div class="container">
@@ -168,11 +167,5 @@
     </div>
 </div>
 <!--// Blog Related Post-->
-
-
-
-
-
-
 
 <?php include('footer.php'); ?>

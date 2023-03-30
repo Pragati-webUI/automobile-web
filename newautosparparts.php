@@ -82,7 +82,6 @@
 
                                 <!-- Grid List Column-->
                                 <div class="grid-list-column-item">
-                                    <!-- <span class="price-drop-tag">22%</span> -->
                                     <div class="thumb">
                                         <img src="assets/img/shop/product/02.png" alt="img">
                                     </div>
@@ -132,7 +131,6 @@
 
                                 <!-- Grid List Column-->
                                 <div class="grid-list-column-item">
-                                    <!-- <span class="price-drop-tag">22%</span> -->
                                     <div class="thumb">
                                         <img src="assets/img/shop/product/01.png" alt="img">
                                     </div>
@@ -567,7 +565,6 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
                 <!--// Shop Page Grid View-->
 
@@ -713,7 +710,6 @@
                     </div>
                     <!--// Tag Widget-->
                 </div>
-
             </div>
         </div>
     </div>

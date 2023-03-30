@@ -96,7 +96,6 @@
                         <img src="assets/img/shop-details/small-03.png" alt="img">
                     </div>
                     <!--// Single Item-->
-
                 </div>
                 <!--// Slider Active Class-->
 
@@ -241,7 +240,6 @@
                 <!--// Product Description-->
             </div>
 
-
             <div class="col-lg-12">
                 <!--Related Product-->
                 <div class="related-product-area">
@@ -349,15 +347,11 @@
                             </div>
                             <!--// Grid List Column-->
                         </div>
-
-
                     </div>
                 </div>
                 <!--// Related Product-->
             </div>
-
         </div>
-
     </div>
 </div>
 <!--// Product Details Tab-->

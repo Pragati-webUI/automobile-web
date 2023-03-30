@@ -18,12 +18,6 @@
 </div>
 <!--// Breadcrumb End-->
 
-
-
-
-
-
-
 <!--Home section How We are-->
 <section class="how-we-are padding-120 md-bottom-100">
     <div class="container">
@@ -75,11 +69,6 @@
     <!--// Container End-->
 </section>
 <!--// Home section How We are-->
-
-
-
-
-
 
 <!--Product Details Tab-->
 <div class="product-details-tab padding-top-120 padding-bottom-90">
@@ -306,7 +295,6 @@
                 <!--// Product Description-->
             </div>
 
-
             <div class="col-lg-12">
                 <!--Related Product-->
                 <div class="related-product-area">
@@ -414,15 +402,11 @@
                             </div>
                             <!--// Grid List Column-->
                         </div>
-
-
                     </div>
                 </div>
                 <!--// Related Product-->
             </div>
-
         </div>
-
     </div>
 </div>
 <!--// Product Details Tab-->
@@ -482,11 +466,16 @@
                                                 <span class="black">$44,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start1"><label for="start1"></label>
-                                                <input type="radio" name="start1" id="start2"><label for="start2"></label>
-                                                <input type="radio" name="start1" id="start3"><label for="start3"></label>
-                                                <input type="radio" name="start1" id="start4"><label for="start4"></label>
-                                                <input type="radio" name="start1" id="start5"><label for="start5"></label>
+                                                <input type="radio" name="start1" id="start1"><label
+                                                    for="start1"></label>
+                                                <input type="radio" name="start1" id="start2"><label
+                                                    for="start2"></label>
+                                                <input type="radio" name="start1" id="start3"><label
+                                                    for="start3"></label>
+                                                <input type="radio" name="start1" id="start4"><label
+                                                    for="start4"></label>
+                                                <input type="radio" name="start1" id="start5"><label
+                                                    for="start5"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -530,11 +519,16 @@
                                                 <span class="black">$75,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start11"><label for="start11"></label>
-                                                <input type="radio" name="start1" id="start21"><label for="start21"></label>
-                                                <input type="radio" name="start1" id="start31"><label for="start31"></label>
-                                                <input type="radio" name="start1" id="start41"><label for="start41"></label>
-                                                <input type="radio" name="start1" id="start51"><label for="start51"></label>
+                                                <input type="radio" name="start1" id="start11"><label
+                                                    for="start11"></label>
+                                                <input type="radio" name="start1" id="start21"><label
+                                                    for="start21"></label>
+                                                <input type="radio" name="start1" id="start31"><label
+                                                    for="start31"></label>
+                                                <input type="radio" name="start1" id="start41"><label
+                                                    for="start41"></label>
+                                                <input type="radio" name="start1" id="start51"><label
+                                                    for="start51"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -578,11 +572,16 @@
                                                 <span class="black">$49,999</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start12"><label for="start12"></label>
-                                                <input type="radio" name="start1" id="start22"><label for="start22"></label>
-                                                <input type="radio" name="start1" id="start32"><label for="start32"></label>
-                                                <input type="radio" name="start1" id="start42"><label for="start42"></label>
-                                                <input type="radio" name="start1" id="start52"><label for="start52"></label>
+                                                <input type="radio" name="start1" id="start12"><label
+                                                    for="start12"></label>
+                                                <input type="radio" name="start1" id="start22"><label
+                                                    for="start22"></label>
+                                                <input type="radio" name="start1" id="start32"><label
+                                                    for="start32"></label>
+                                                <input type="radio" name="start1" id="start42"><label
+                                                    for="start42"></label>
+                                                <input type="radio" name="start1" id="start52"><label
+                                                    for="start52"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -626,11 +625,16 @@
                                                 <span class="black">$60,990</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start13"><label for="start13"></label>
-                                                <input type="radio" name="start1" id="start23"><label for="start23"></label>
-                                                <input type="radio" name="start1" id="start33"><label for="start33"></label>
-                                                <input type="radio" name="start1" id="start43"><label for="start43"></label>
-                                                <input type="radio" name="start1" id="start53"><label for="start53"></label>
+                                                <input type="radio" name="start1" id="start13"><label
+                                                    for="start13"></label>
+                                                <input type="radio" name="start1" id="start23"><label
+                                                    for="start23"></label>
+                                                <input type="radio" name="start1" id="start33"><label
+                                                    for="start33"></label>
+                                                <input type="radio" name="start1" id="start43"><label
+                                                    for="start43"></label>
+                                                <input type="radio" name="start1" id="start53"><label
+                                                    for="start53"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -674,11 +678,16 @@
                                                 <span class="black">$44,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start14"><label for="start14"></label>
-                                                <input type="radio" name="start1" id="start24"><label for="start24"></label>
-                                                <input type="radio" name="start1" id="start34"><label for="start34"></label>
-                                                <input type="radio" name="start1" id="start44"><label for="start44"></label>
-                                                <input type="radio" name="start1" id="start54"><label for="start54"></label>
+                                                <input type="radio" name="start1" id="start14"><label
+                                                    for="start14"></label>
+                                                <input type="radio" name="start1" id="start24"><label
+                                                    for="start24"></label>
+                                                <input type="radio" name="start1" id="start34"><label
+                                                    for="start34"></label>
+                                                <input type="radio" name="start1" id="start44"><label
+                                                    for="start44"></label>
+                                                <input type="radio" name="start1" id="start54"><label
+                                                    for="start54"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -722,11 +731,16 @@
                                                 <span class="black">$75,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start15"><label for="start15"></label>
-                                                <input type="radio" name="start1" id="start25"><label for="start25"></label>
-                                                <input type="radio" name="start1" id="start35"><label for="start35"></label>
-                                                <input type="radio" name="start1" id="start45"><label for="start45"></label>
-                                                <input type="radio" name="start1" id="start55"><label for="start55"></label>
+                                                <input type="radio" name="start1" id="start15"><label
+                                                    for="start15"></label>
+                                                <input type="radio" name="start1" id="start25"><label
+                                                    for="start25"></label>
+                                                <input type="radio" name="start1" id="start35"><label
+                                                    for="start35"></label>
+                                                <input type="radio" name="start1" id="start45"><label
+                                                    for="start45"></label>
+                                                <input type="radio" name="start1" id="start55"><label
+                                                    for="start55"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -770,11 +784,16 @@
                                                 <span class="black">$44,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start16"><label for="start16"></label>
-                                                <input type="radio" name="start1" id="start26"><label for="start26"></label>
-                                                <input type="radio" name="start1" id="start36"><label for="start36"></label>
-                                                <input type="radio" name="start1" id="start46"><label for="start46"></label>
-                                                <input type="radio" name="start1" id="start56"><label for="start56"></label>
+                                                <input type="radio" name="start1" id="start16"><label
+                                                    for="start16"></label>
+                                                <input type="radio" name="start1" id="start26"><label
+                                                    for="start26"></label>
+                                                <input type="radio" name="start1" id="start36"><label
+                                                    for="start36"></label>
+                                                <input type="radio" name="start1" id="start46"><label
+                                                    for="start46"></label>
+                                                <input type="radio" name="start1" id="start56"><label
+                                                    for="start56"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -818,11 +837,16 @@
                                                 <span class="black">$75,500</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start17"><label for="start17"></label>
-                                                <input type="radio" name="start1" id="start27"><label for="start27"></label>
-                                                <input type="radio" name="start1" id="start37"><label for="start37"></label>
-                                                <input type="radio" name="start1" id="start47"><label for="start47"></label>
-                                                <input type="radio" name="start1" id="start57"><label for="start57"></label>
+                                                <input type="radio" name="start1" id="start17"><label
+                                                    for="start17"></label>
+                                                <input type="radio" name="start1" id="start27"><label
+                                                    for="start27"></label>
+                                                <input type="radio" name="start1" id="start37"><label
+                                                    for="start37"></label>
+                                                <input type="radio" name="start1" id="start47"><label
+                                                    for="start47"></label>
+                                                <input type="radio" name="start1" id="start57"><label
+                                                    for="start57"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -866,11 +890,16 @@
                                                 <span class="black">$49,999</span>
                                             </div>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="start18"><label for="start18"></label>
-                                                <input type="radio" name="start1" id="start28"><label for="start28"></label>
-                                                <input type="radio" name="start1" id="start38"><label for="start38"></label>
-                                                <input type="radio" name="start1" id="start48"><label for="start48"></label>
-                                                <input type="radio" name="start1" id="start58"><label for="start58"></label>
+                                                <input type="radio" name="start1" id="start18"><label
+                                                    for="start18"></label>
+                                                <input type="radio" name="start1" id="start28"><label
+                                                    for="start28"></label>
+                                                <input type="radio" name="start1" id="start38"><label
+                                                    for="start38"></label>
+                                                <input type="radio" name="start1" id="start48"><label
+                                                    for="start48"></label>
+                                                <input type="radio" name="start1" id="start58"><label
+                                                    for="start58"></label>
                                             </div>
                                         </div>
                                         <div class="cart">
@@ -898,7 +927,6 @@
                                     <!--// Car Functional Wrap-->
                                 </div>
                                 <!--// Grid List Column-->
-
                             </div>
                             <!--// Grid List Wrapper-->
                         </div>
@@ -916,17 +944,23 @@
                                             <h5 class="title">Mercedes S-Class</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts01"><label for="starts01"></label>
-                                                <input type="radio" name="start1" id="starts02"><label for="starts02"></label>
-                                                <input type="radio" name="start1" id="starts03"><label for="starts03"></label>
-                                                <input type="radio" name="start1" id="starts04"><label for="starts04"></label>
-                                                <input type="radio" name="start1" id="starts05"><label for="starts05"></label>
+                                                <input type="radio" name="start1" id="starts01"><label
+                                                    for="starts01"></label>
+                                                <input type="radio" name="start1" id="starts02"><label
+                                                    for="starts02"></label>
+                                                <input type="radio" name="start1" id="starts03"><label
+                                                    for="starts03"></label>
+                                                <input type="radio" name="start1" id="starts04"><label
+                                                    for="starts04"></label>
+                                                <input type="radio" name="start1" id="starts05"><label
+                                                    for="starts05"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$145</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -950,7 +984,6 @@
                                         </div>
                                     </div>
                                     <!--// Car Functional Wrap-->
-
                                 </div>
                                 <!--// list View Item-->
 
@@ -965,17 +998,23 @@
                                             <h5 class="title">Dodge Challenger</h5>
                                             <h6 class="sub-title">Model 2016</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts11"><label for="starts11"></label>
-                                                <input type="radio" name="start1" id="starts12"><label for="starts12"></label>
-                                                <input type="radio" name="start1" id="starts13"><label for="starts13"></label>
-                                                <input type="radio" name="start1" id="starts14"><label for="starts14"></label>
-                                                <input type="radio" name="start1" id="starts15"><label for="starts15"></label>
+                                                <input type="radio" name="start1" id="starts11"><label
+                                                    for="starts11"></label>
+                                                <input type="radio" name="start1" id="starts12"><label
+                                                    for="starts12"></label>
+                                                <input type="radio" name="start1" id="starts13"><label
+                                                    for="starts13"></label>
+                                                <input type="radio" name="start1" id="starts14"><label
+                                                    for="starts14"></label>
+                                                <input type="radio" name="start1" id="starts15"><label
+                                                    for="starts15"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$75,500</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1013,17 +1052,23 @@
                                             <h5 class="title">Mercedes S-Class</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts21"><label for="starts21"></label>
-                                                <input type="radio" name="start1" id="starts22"><label for="starts22"></label>
-                                                <input type="radio" name="start1" id="starts23"><label for="starts23"></label>
-                                                <input type="radio" name="start1" id="starts24"><label for="starts24"></label>
-                                                <input type="radio" name="start1" id="starts25"><label for="starts25"></label>
+                                                <input type="radio" name="start1" id="starts21"><label
+                                                    for="starts21"></label>
+                                                <input type="radio" name="start1" id="starts22"><label
+                                                    for="starts22"></label>
+                                                <input type="radio" name="start1" id="starts23"><label
+                                                    for="starts23"></label>
+                                                <input type="radio" name="start1" id="starts24"><label
+                                                    for="starts24"></label>
+                                                <input type="radio" name="start1" id="starts25"><label
+                                                    for="starts25"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$49,999</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1061,17 +1106,23 @@
                                             <h5 class="title">Aston Martin</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts31"><label for="starts31"></label>
-                                                <input type="radio" name="start1" id="starts32"><label for="starts32"></label>
-                                                <input type="radio" name="start1" id="starts33"><label for="starts33"></label>
-                                                <input type="radio" name="start1" id="starts34"><label for="starts34"></label>
-                                                <input type="radio" name="start1" id="starts35"><label for="starts35"></label>
+                                                <input type="radio" name="start1" id="starts31"><label
+                                                    for="starts31"></label>
+                                                <input type="radio" name="start1" id="starts32"><label
+                                                    for="starts32"></label>
+                                                <input type="radio" name="start1" id="starts33"><label
+                                                    for="starts33"></label>
+                                                <input type="radio" name="start1" id="starts34"><label
+                                                    for="starts34"></label>
+                                                <input type="radio" name="start1" id="starts35"><label
+                                                    for="starts35"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$60,990</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1109,17 +1160,23 @@
                                             <h5 class="title">Mercedes S-Class</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts41"><label for="starts41"></label>
-                                                <input type="radio" name="start1" id="starts42"><label for="starts42"></label>
-                                                <input type="radio" name="start1" id="starts43"><label for="starts43"></label>
-                                                <input type="radio" name="start1" id="starts44"><label for="starts44"></label>
-                                                <input type="radio" name="start1" id="starts45"><label for="starts45"></label>
+                                                <input type="radio" name="start1" id="starts41"><label
+                                                    for="starts41"></label>
+                                                <input type="radio" name="start1" id="starts42"><label
+                                                    for="starts42"></label>
+                                                <input type="radio" name="start1" id="starts43"><label
+                                                    for="starts43"></label>
+                                                <input type="radio" name="start1" id="starts44"><label
+                                                    for="starts44"></label>
+                                                <input type="radio" name="start1" id="starts45"><label
+                                                    for="starts45"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$145</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1143,7 +1200,6 @@
                                         </div>
                                     </div>
                                     <!--// Car Functional Wrap-->
-
                                 </div>
                                 <!--// list View Item-->
 
@@ -1158,17 +1214,23 @@
                                             <h5 class="title">Dodge Challenger</h5>
                                             <h6 class="sub-title">Model 2016</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts51"><label for="starts51"></label>
-                                                <input type="radio" name="start1" id="starts52"><label for="starts52"></label>
-                                                <input type="radio" name="start1" id="starts53"><label for="starts53"></label>
-                                                <input type="radio" name="start1" id="starts54"><label for="starts54"></label>
-                                                <input type="radio" name="start1" id="starts55"><label for="starts55"></label>
+                                                <input type="radio" name="start1" id="starts51"><label
+                                                    for="starts51"></label>
+                                                <input type="radio" name="start1" id="starts52"><label
+                                                    for="starts52"></label>
+                                                <input type="radio" name="start1" id="starts53"><label
+                                                    for="starts53"></label>
+                                                <input type="radio" name="start1" id="starts54"><label
+                                                    for="starts54"></label>
+                                                <input type="radio" name="start1" id="starts55"><label
+                                                    for="starts55"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$75,500</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1206,17 +1268,23 @@
                                             <h5 class="title">Mercedes S-Class</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts61"><label for="starts61"></label>
-                                                <input type="radio" name="start1" id="starts62"><label for="starts62"></label>
-                                                <input type="radio" name="start1" id="starts63"><label for="starts63"></label>
-                                                <input type="radio" name="start1" id="starts64"><label for="starts64"></label>
-                                                <input type="radio" name="start1" id="starts65"><label for="starts65"></label>
+                                                <input type="radio" name="start1" id="starts61"><label
+                                                    for="starts61"></label>
+                                                <input type="radio" name="start1" id="starts62"><label
+                                                    for="starts62"></label>
+                                                <input type="radio" name="start1" id="starts63"><label
+                                                    for="starts63"></label>
+                                                <input type="radio" name="start1" id="starts64"><label
+                                                    for="starts64"></label>
+                                                <input type="radio" name="start1" id="starts65"><label
+                                                    for="starts65"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$49,999</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1254,17 +1322,23 @@
                                             <h5 class="title">Aston Martin</h5>
                                             <h6 class="sub-title">Model 2019</h6>
                                             <div class="common-rating-style">
-                                                <input type="radio" name="start1" id="starts71"><label for="starts71"></label>
-                                                <input type="radio" name="start1" id="starts72"><label for="starts72"></label>
-                                                <input type="radio" name="start1" id="starts73"><label for="starts73"></label>
-                                                <input type="radio" name="start1" id="starts74"><label for="starts74"></label>
-                                                <input type="radio" name="start1" id="starts75"><label for="starts75"></label>
+                                                <input type="radio" name="start1" id="starts71"><label
+                                                    for="starts71"></label>
+                                                <input type="radio" name="start1" id="starts72"><label
+                                                    for="starts72"></label>
+                                                <input type="radio" name="start1" id="starts73"><label
+                                                    for="starts73"></label>
+                                                <input type="radio" name="start1" id="starts74"><label
+                                                    for="starts74"></label>
+                                                <input type="radio" name="start1" id="starts75"><label
+                                                    for="starts75"></label>
                                             </div>
                                             <div class="common-price-style">
                                                 Price: <span class="black">$60,990</span>
                                             </div>
                                             <div class="main-btn-wrap padding-top-20">
-                                                <a href="#" class="main-btn black-border"><i class="flaticon-shopping-cart"></i>
+                                                <a href="#" class="main-btn black-border"><i
+                                                        class="flaticon-shopping-cart"></i>
                                                     Add To Cart
                                                 </a>
                                             </div>
@@ -1290,7 +1364,6 @@
                                     <!--// Car Functional Wrap-->
                                 </div>
                                 <!--// list View Item-->
-
                             </div>
                         </div>
                     </div>
@@ -1312,7 +1385,6 @@
                 </div>
                 <!--// Pagination-->
             </div>
-
 
             <div class="col-lg-4">
                 <div class="widget-area">
@@ -1416,18 +1488,12 @@
                         </ul>
                     </div>
                     <!--// New Product Widget-->
-
-
-
                 </div>
-
             </div>
         </div>
     </div>
     <!--// Container-->
 </div>
 <!--// Blog Page Content-->
-
-
 
 <?php include('footer.php'); ?>

@@ -1,24 +1,5 @@
 <?php include('header.php'); ?>
 
-<!--Breadcrumb Start-->
-<div class="breadcrumb-area" style="background-image: url('assets/img/breadcrumb/02.png')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcrumb-inner text-center">
-                    <h1 class="page-title">Our Services</h1>
-                    <ul class="page-list">
-                        <li><a href="#">Home</a></li>
-                        <li>Services</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--// Breadcrumb End-->
-
-<!--Service Offer Section-->
 <section class="service-offer-section padding-top-110">
     <div class="container">
         <div class="row">
@@ -27,7 +8,7 @@
                 <div class="section-title-wrap text-center">
                     <!--Section Title-->
                     <div class="section-title padding-bottom-65">
-                        <h2 class="heading-02 padding-bottom-10">Our Best Services</h2>
+                        <h2 class="heading-02 padding-bottom-10" style="margin-top: 158px;">New Other Products</h2>
                         <p>It is a long established fact that a reader will be distracted by the
                             readable content of a page when looking at its layout.</p>
                     </div>
@@ -40,9 +21,7 @@
     </div>
     <!--// Container-->
 </section>
-<!--// Service Offer Section-->
 
-<!--Section Single Item-->
 <section class="service-single-item">
     <div class="container">
         <div class="row">
@@ -57,21 +36,19 @@
                 <div class="service-content">
                     <div class="item-number">01</div>
                     <div class="title-wrap">
-                        <h3 class="title">Car Service</h3>
+                        <h3 class="title">Restart and Repair</h3>
                     </div>
                     <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
                         skilled
                         and knowledgeable repair service station like Auto to ensure a smooth and hassle free glide
                     </p>
-                    <a href="carservices.php" class="more-details">More Details</a>
+                    <a href="#" class="more-details">More Details</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--// Section Single Item-->
 
-<!--Section Single Item-->
 <section class="service-single-item padding-120">
     <div class="container">
         <div class="row">
@@ -86,21 +63,19 @@
                 <div class="service-content">
                     <div class="item-number">02</div>
                     <div class="title-wrap">
-                        <h3 class="title">Bike Service</h3>
+                        <h3 class="title">Engine Testing</h3>
                     </div>
                     <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
                         skilled
                         and knowledgeable repair service station like Auto to ensure a smooth and hassle free glide
                     </p>
-                    <a href="bickservices.php" class="more-details">More Details</a>
+                    <a href="#" class="more-details">More Details</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--// Section Single Item-->
 
-<!--Section Single Item-->
 <section class="service-single-item">
     <div class="container">
         <div class="row">
@@ -115,7 +90,7 @@
                 <div class="service-content">
                     <div class="item-number">03</div>
                     <div class="title-wrap">
-                        <h3 class="title">Mechanic</h3>
+                        <h3 class="title">Parts Repairing</h3>
                     </div>
                     <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
                         skilled
@@ -127,9 +102,7 @@
         </div>
     </div>
 </section>
-<!--// Section Single Item-->
 
-<!--Section Single Item-->
 <section class="service-single-item padding-120">
     <div class="container">
         <div class="row">
@@ -144,7 +117,7 @@
                 <div class="service-content">
                     <div class="item-number">04</div>
                     <div class="title-wrap">
-                        <h3 class="title">Repairing</h3>
+                        <h3 class="title">Oil Change</h3>
                     </div>
                     <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
                         skilled
@@ -156,9 +129,7 @@
         </div>
     </div>
 </section>
-<!--// Section Single Item-->
 
-<!--Section Single Item-->
 <section class="service-single-item">
     <div class="container">
         <div class="row">
@@ -173,7 +144,7 @@
                 <div class="service-content">
                     <div class="item-number">05</div>
                     <div class="title-wrap">
-                        <h3 class="title">Other Service</h3>
+                        <h3 class="title">Car Delivery</h3>
                     </div>
                     <p>Hence, the electric car owners should ensure that the car is frequently inspected by a
                         skilled
@@ -185,6 +156,5 @@
         </div>
     </div>
 </section>
-<!--// Section Single Item-->
 
 <?php include('footer.php'); ?>

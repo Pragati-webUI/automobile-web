@@ -1,7 +1,5 @@
 <?php include('header.php'); ?>
 
-
-
 <!--Banner Auto Car Section-->
 <section class="banner-auto-car" style="background-image: url(assets/img/slider/superbikes.webp);margin-top: 112px;">
     <!--Container-->
@@ -222,7 +220,6 @@
                     </div>
                 </div>
                 <!--// Items-->
-
             </div>
             <!--// Service Items Wrap-->
         </div>
@@ -231,7 +228,5 @@
     <!--// Container-->
 </section>
 <!--// Our Service Section end-->
-
-
 
 <?php include('footer.php'); ?>

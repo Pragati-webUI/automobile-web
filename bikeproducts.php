@@ -47,7 +47,6 @@
                         <li class="button" data-filter=".audi">Audi</li>
                         <li class="button" data-filter=".rolls">Rolls Royce</li>
                     </ul>
-
                 </div>
                 <!--// Filter Button Section End-->
             </div>
@@ -65,16 +64,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start111"><label
-                                                for="start111"></label>
-                                            <input type="radio" name="start1" id="start112"><label
-                                                for="start112"></label>
-                                            <input type="radio" name="start1" id="start113"><label
-                                                for="start113"></label>
-                                            <input type="radio" name="start1" id="start114"><label
-                                                for="start114"></label>
-                                            <input type="radio" name="start1" id="start115"><label
-                                                for="start115"></label>
+                                            <input type="radio" name="start1" id="start111"><label for="start111"></label>
+                                            <input type="radio" name="start1" id="start112"><label for="start112"></label>
+                                            <input type="radio" name="start1" id="start113"><label for="start113"></label>
+                                            <input type="radio" name="start1" id="start114"><label for="start114"></label>
+                                            <input type="radio" name="start1" id="start115"><label for="start115"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -112,16 +106,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start221"><label
-                                                for="start221"></label>
-                                            <input type="radio" name="start1" id="start222"><label
-                                                for="start222"></label>
-                                            <input type="radio" name="start1" id="start223"><label
-                                                for="start223"></label>
-                                            <input type="radio" name="start1" id="start224"><label
-                                                for="start224"></label>
-                                            <input type="radio" name="start1" id="start225"><label
-                                                for="start225"></label>
+                                            <input type="radio" name="start1" id="start221"><label for="start221"></label>
+                                            <input type="radio" name="start1" id="start222"><label for="start222"></label>
+                                            <input type="radio" name="start1" id="start223"><label for="start223"></label>
+                                            <input type="radio" name="start1" id="start224"><label for="start224"></label>
+                                            <input type="radio" name="start1" id="start225"><label for="start225"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -159,16 +148,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start331"><label
-                                                for="start331"></label>
-                                            <input type="radio" name="start1" id="start332"><label
-                                                for="start332"></label>
-                                            <input type="radio" name="start1" id="start333"><label
-                                                for="start333"></label>
-                                            <input type="radio" name="start1" id="start334"><label
-                                                for="start334"></label>
-                                            <input type="radio" name="start1" id="start335"><label
-                                                for="start335"></label>
+                                            <input type="radio" name="start1" id="start331"><label for="start331"></label>
+                                            <input type="radio" name="start1" id="start332"><label for="start332"></label>
+                                            <input type="radio" name="start1" id="start333"><label for="start333"></label>
+                                            <input type="radio" name="start1" id="start334"><label for="start334"></label>
+                                            <input type="radio" name="start1" id="start335"><label for="start335"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -178,7 +162,6 @@
                                 </div>
                                 <!--// Thumb-->
                                 <h5 class="title padding-20 ml-5">Audi S3 Sedan</h5>
-
                                 <ul class="list-item-wrap padding-30">
                                     <li class="list-items"><span class="icon flaticon-car-5"></span> Doors: 4 </li>
                                     <li class="list-items"><span class="icon flaticon-safety-seat"></span> Seat: 4
@@ -206,16 +189,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start441"><label
-                                                for="start441"></label>
-                                            <input type="radio" name="start1" id="start442"><label
-                                                for="start442"></label>
-                                            <input type="radio" name="start1" id="start443"><label
-                                                for="start443"></label>
-                                            <input type="radio" name="start1" id="start444"><label
-                                                for="start444"></label>
-                                            <input type="radio" name="start1" id="start445"><label
-                                                for="start445"></label>
+                                            <input type="radio" name="start1" id="start441"><label for="start441"></label>
+                                            <input type="radio" name="start1" id="start442"><label for="start442"></label>
+                                            <input type="radio" name="start1" id="start443"><label for="start443"></label>
+                                            <input type="radio" name="start1" id="start444"><label for="start444"></label>
+                                            <input type="radio" name="start1" id="start445"><label for="start445"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -253,16 +231,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start551"><label
-                                                for="start551"></label>
-                                            <input type="radio" name="start1" id="start552"><label
-                                                for="start552"></label>
-                                            <input type="radio" name="start1" id="start553"><label
-                                                for="start553"></label>
-                                            <input type="radio" name="start1" id="start554"><label
-                                                for="start554"></label>
-                                            <input type="radio" name="start1" id="start555"><label
-                                                for="start555"></label>
+                                            <input type="radio" name="start1" id="start551"><label for="start551"></label>
+                                            <input type="radio" name="start1" id="start552"><label for="start552"></label>
+                                            <input type="radio" name="start1" id="start553"><label for="start553"></label>
+                                            <input type="radio" name="start1" id="start554"><label for="start554"></label>
+                                            <input type="radio" name="start1" id="start555"><label for="start555"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -300,16 +273,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start661"><label
-                                                for="start661"></label>
-                                            <input type="radio" name="start1" id="start662"><label
-                                                for="start662"></label>
-                                            <input type="radio" name="start1" id="start663"><label
-                                                for="start663"></label>
-                                            <input type="radio" name="start1" id="start664"><label
-                                                for="start664"></label>
-                                            <input type="radio" name="start1" id="start665"><label
-                                                for="start665"></label>
+                                            <input type="radio" name="start1" id="start661"><label for="start661"></label>
+                                            <input type="radio" name="start1" id="start662"><label for="start662"></label>
+                                            <input type="radio" name="start1" id="start663"><label for="start663"></label>
+                                            <input type="radio" name="start1" id="start664"><label for="start664"></label>
+                                            <input type="radio" name="start1" id="start665"><label for="start665"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -347,16 +315,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start771"><label
-                                                for="start771"></label>
-                                            <input type="radio" name="start1" id="start772"><label
-                                                for="start772"></label>
-                                            <input type="radio" name="start1" id="start773"><label
-                                                for="start773"></label>
-                                            <input type="radio" name="start1" id="start774"><label
-                                                for="start774"></label>
-                                            <input type="radio" name="start1" id="start775"><label
-                                                for="start775"></label>
+                                            <input type="radio" name="start1" id="start771"><label for="start771"></label>
+                                            <input type="radio" name="start1" id="start772"><label for="start772"></label>
+                                            <input type="radio" name="start1" id="start773"><label for="start773"></label>
+                                            <input type="radio" name="start1" id="start774"><label for="start774"></label>
+                                            <input type="radio" name="start1" id="start775"><label for="start775"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -394,16 +357,11 @@
                                     </div>
                                     <div class="rating">
                                         <div class="common-rating-style">
-                                            <input type="radio" name="start1" id="start881"><label
-                                                for="start881"></label>
-                                            <input type="radio" name="start1" id="start882"><label
-                                                for="start882"></label>
-                                            <input type="radio" name="start1" id="start883"><label
-                                                for="start883"></label>
-                                            <input type="radio" name="start1" id="start884"><label
-                                                for="start884"></label>
-                                            <input type="radio" name="start1" id="start885"><label
-                                                for="start885"></label>
+                                            <input type="radio" name="start1" id="start881"><label for="start881"></label>
+                                            <input type="radio" name="start1" id="start882"><label for="start882"></label>
+                                            <input type="radio" name="start1" id="start883"><label for="start883"></label>
+                                            <input type="radio" name="start1" id="start884"><label for="start884"></label>
+                                            <input type="radio" name="start1" id="start885"><label for="start885"></label>
                                         </div>
                                     </div>
                                 </div>
@@ -468,7 +426,6 @@
 </div>
 <!--// Breadcrumb End-->
 
-
 <!--Blog Page Content-->
 <div class="blog-page-content padding-top-120 padding-bottom-100">
     <div class="container">
@@ -527,14 +484,10 @@
                                         </div>
                                         <div class="share-icon">
                                             <ul class="icon-wrap">
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -599,14 +552,10 @@
                                         </div>
                                         <div class="share-icon">
                                             <ul class="icon-wrap">
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -671,14 +620,10 @@
                                         </div>
                                         <div class="share-icon">
                                             <ul class="icon-wrap">
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -743,14 +688,10 @@
                                         </div>
                                         <div class="share-icon">
                                             <ul class="icon-wrap">
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-facebook-f"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-twitter"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-instagram"></i></a></li>
-                                                <li><a class="icon" href="#" target="_blank"><i
-                                                            class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a class="icon" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -854,7 +795,6 @@
                             <li><a href="#"><img src="assets/img/blog/gallery/06.png" alt="img"></a></li>
                         </ul>
                     </div>
-
 
                     <div class="widget blog-bg style-01">
                         <h5 class="widget-title border-bottom">Tags</h5>

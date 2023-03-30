@@ -1,6 +1,5 @@
 <?php include('header.php'); ?>
 
-
 <!--Home section How We are-->
 <section class="how-we-are padding-120 md-bottom-100">
     <div class="container">
@@ -52,7 +51,6 @@
     <!--// Container End-->
 </section>
 <!--// Home section How We are-->
-
 
 <!--Our Latest New Section-->
 <section class="latest-news padding-top-110 padding-bottom-120 ">
@@ -201,7 +199,6 @@
                             </div>
                         </div>
                         <!--// Items-->
-
                     </div>
                     <!--// Slider Active Class-->
                 </div>
@@ -211,8 +208,5 @@
     </div>
 </section>
 <!--//Our Latest New Section End-->
-
-
-
 
 <?php include('footer.php'); ?>

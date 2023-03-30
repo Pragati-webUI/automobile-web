@@ -463,7 +463,7 @@ button:focus {
   padding-top: 105px; }
 
 .padding-top-110 {
-  padding-top: 60px; }
+  padding-top: 12px; }
 
 .padding-top-115 {
   padding-top: 115px; }
@@ -540,7 +540,7 @@ button:focus {
   padding-bottom: 105px; }
 
 .padding-bottom-115 {
-  padding-bottom: 115px; }
+  padding-bottom: 0px; }
 
 .padding-bottom-120 {
   padding-bottom: 50px; }
@@ -564,7 +564,7 @@ button:focus {
   padding-bottom: 165px; }
 
 .padding-120 {
-  padding-top: 100px;
+  padding-top: 30px;
   padding-bottom: 50px; }
 
 .padding-110 {
@@ -10538,3 +10538,5 @@ input:focus {
 .thumb1-img img{
   height: 15.5rem;
 }
+
+

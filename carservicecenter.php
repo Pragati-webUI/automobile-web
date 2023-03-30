@@ -1,7 +1,5 @@
 <?php include('header.php'); ?>
 
-
-
 <!--Banner Auto Car Section-->
 <section class="banner-auto-car" style="background-image: url(assets/img/slider/car13.webp);margin-top: 112px;">
     <!--Container-->
@@ -81,7 +79,8 @@
             <div class="service-items-wrap">
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img left" style="background-image: url('assets/img/home-01/our-service/01.jpg');">
+                    <div class="overlay-img left"
+                        style="background-image: url('assets/img/home-01/our-service/01.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -105,7 +104,8 @@
 
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img top" style="background-image: url('assets/img/home-01/our-service/02.jpg');">
+                    <div class="overlay-img top"
+                        style="background-image: url('assets/img/home-01/our-service/02.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -129,7 +129,8 @@
 
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img right" style="background-image: url('assets/img/home-01/our-service/03.jpg');">
+                    <div class="overlay-img right"
+                        style="background-image: url('assets/img/home-01/our-service/03.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -153,7 +154,8 @@
 
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img left" style="background-image: url('assets/img/home-01/our-service/04.jpg');">
+                    <div class="overlay-img left"
+                        style="background-image: url('assets/img/home-01/our-service/04.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -177,7 +179,8 @@
 
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img bottom" style="background-image: url('assets/img/home-01/our-service/05.jpg');">
+                    <div class="overlay-img bottom"
+                        style="background-image: url('assets/img/home-01/our-service/05.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -201,7 +204,8 @@
 
                 <!--Items-->
                 <div class="service-items-wrap__items mb-5">
-                    <div class="overlay-img right" style="background-image: url('assets/img/home-01/our-service/03.jpg');">
+                    <div class="overlay-img right"
+                        style="background-image: url('assets/img/home-01/our-service/03.jpg');">
                         <a href="#" class="service-btn">Service Details</a>
                     </div>
                     <div class="items__content">
@@ -231,7 +235,5 @@
     <!--// Container-->
 </section>
 <!--// Our Service Section end-->
-
-
 
 <?php include('footer.php'); ?>

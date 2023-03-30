@@ -1,7 +1,8 @@
 <?php include('header.php'); ?>
 
 <!--Banner Auto Car Section-->
-<div class="banner-auto-car style-02 padding-top-110 padding-bottom-150 mt-5" style="background-image: url(assets/img/bg/bg-02.png)">
+<div class="banner-auto-car style-02 padding-top-110 padding-bottom-150 mt-5"
+    style="background-image: url(assets/img/bg/bg-02.png)">
     <!--Container-->
     <div class="container">
         <div class="row">
@@ -41,7 +42,6 @@
     <!--// Container-->
 </div>
 <!--// Banner Auto Car Section End-->
-
 
 <!--Home 02 Our Service Section-->
 <section class="h2-service-section padding-120">
@@ -180,7 +180,5 @@
     <!--// Container-->
 </section>
 <!--// Home 02 Our Service Section-->
-
-
 
 <?php include('footer.php'); ?>

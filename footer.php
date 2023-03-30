@@ -1,14 +1,7 @@
  <!-- footer area start -->
- <!-- <div>
-     <a href="#" class="float" target="_blank">
-         <i class="fa fa-whatsapp my-float">
-             Rate & Review</i>
-     </a>
- </div> -->
 
  <div class="expert">
      <a href="http://localhost/car/rateandreview.php" class="float2" target="_blank">
-         <!-- <i class="fa fa-phone" aria-hidden="true"></i> -->
          <h1 class="blank1">Rate & Review</h1>
      </a>
  </div>
@@ -19,7 +12,6 @@
          <h1 class="blank">Expert <br>Call</h1>
      </a>
  </div>
-
 
  <footer class="footer-area style-02" style="background-image: url('assets/img/bg/footer-bg.png')">
      <div class="footer-top ">
@@ -32,7 +24,6 @@
                              <p>We believe brand interaction is key in commu- nication. Real innovations and a
                                  positive customer
                                  experience are the heart of successful communication.</p>
-
                              <div class="footer-social-icon padding-top-10">
                                  <div class="banner__header__follow_us flex-column">
                                      <div class="text ml-0 mt-0">FOLLOW US</div>
@@ -105,7 +96,6 @@
  </footer>
  <!-- footer area end -->
 
-
  <!-- jquery -->
  <script src="assets/js/jquery-3.4.1.min.js"></script>
  <!--migrate-->
@@ -129,7 +119,6 @@
  <script src="assets/js/rateandreview.js"></script>
 
  </body>
-
 
  <!-- Mirrored from zwin.io/html/coche/footer.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Mar 2023 08:23:14 GMT -->
 

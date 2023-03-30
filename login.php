@@ -12,28 +12,15 @@
                         <b class="text-danger">Lorem, ipsum dolor sit amet consectetur adipisicing elit. </b>
                         <div class="main-btn-wrap text-center">
                             <a href="http://localhost/car/registration.php" class="main-btn white uppercase">REGISTER</a>
-                            <!-- <a href="http://sim.test/register.php" target="_blank">To Register</a> -->
                         </div>
                     </div>
                 </div>
-
                 <!--// Register Area-->
             </div>
             <div class="col-lg-5">
                 <div class="sign-in-area">
                     <!--Form-->
-                    <form action="http://zwin.io/html/coche/sign-in.html">
-                        <!-- <a href="#" class="btn-login-with google">
-                            <i class="icon fab fa-google-plus-g"></i>
-                            <span class="text">Sign In With Google</span>
-                        </a> -->
-                        <!--// Google BTN-->
-                        <!-- <a href="#" class="btn-login-with facebook">
-                            <i class="icon fab fa-facebook-f"></i>
-                            <span class="text">Sign in with Facebook</span>
-                        </a> -->
-                        <!--// Facebook BTN-->
-                        <!-- <div class="hr-border">OR</div> -->
+                    <form action="#">
                         <!--// Border-->
                         <label for="email">Email</label>
                         <div class="input-group">
@@ -62,35 +49,19 @@
                         <!--// Password-->
                         <div class="form-bottom-area padding-top-30">
                             <div class="remember-me">
-                                <!-- <label class="sign-in-area-switch">
-                                    <input type="checkbox" checked>
-                                    <span class="slider round"></span>
-                                </label> -->
                                 <a href="#">Login With OTP</a>
                             </div>
                             <div class="forgot-password">
                                 <a href="#">Forgot Password</a>
                             </div>
                         </div>
-
-                        <!-- <div class="main-btn-wrap text-center padding-top-60">
-                            <input type="submit" class="main-btn black uppercase" value="Log IN">
-                        </div> -->
-                        <!-- <p class="p-1">New user Click here <a href="http://sim.test/register.php" target="_blank">To Register</a>
-                                            </p> -->
-
                         <div class="main-btn-wrap text-center padding-top-60">
-                            <!-- <input type="submit" class="main-btn black uppercase">RREGISTRATION -->
                             <button class="text">
                                 <a href="http://localhost/car/registration.php">
                                     Log In</i>
                                 </a>
                             </button>
                         </div>
-
-
-
-
                     </form>
                     <!--// Form-->
                 </div>
@@ -100,6 +71,5 @@
     </div>
 </div>
 <!--// Sign Up Page-->
-
 
 <?php include('footer.php'); ?>
